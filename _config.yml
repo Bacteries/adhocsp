@@ -2,8 +2,8 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'Ad Hox SP'
-description: 'AdHox SP : Solutions Aquariologiques'
+title: 'AdHoc SP'
+description: 'Solutions Aquariologiques'
 
 # Images
 avatar: 'logo.png'
