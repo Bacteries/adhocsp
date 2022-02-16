@@ -2,23 +2,23 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Ad Hox SP'
+description: 'AdHox SP : Solutions Aquariologiques'
 
 # Images
-avatar: 'avatar.jpg'
+avatar: 'logo.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'myfacebook'
-twitter: 'mytwitter'
+#facebook: 'myfacebook'
+#twitter: 'mytwitter'
 #linkedin: 'mylinkedin'
-instagram: 'myinsta'
+#instagram: 'myinsta'
 #pinterest: 'mypinterest'
-youtube: 'myyoutube'
-github-user: 'mygithub'
+#youtube: 'myyoutube'
+#github-user: 'mygithub'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -28,14 +28,14 @@ github-user: 'mygithub'
 #reddit: ''
 #rubygems: ''
 #medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
+#tumblr: 'mytumblr'
+#weibo: 'myweibo'
+#vk: 'myvk'
+#blog_url: 'myblog.blog.com'
+email: 'contact@adhoc-sp.com'
+#messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [email]
 
 # Yaml manifest of supported social links
 # Requirements:
